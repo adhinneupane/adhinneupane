@@ -6,7 +6,11 @@
 </br>
 
 <div>
-  
+  Hey there! 
+![image](https://user-images.githubusercontent.com/38281651/213625421-afa9792e-d5f2-4b61-b36e-d29a3063888d.png)
+
+
+
   <img width="400px" align="right"/>
   <h2> About me </h2>
   <ul>
@@ -19,7 +23,10 @@
   </ul>
 </div>
 
-</br>
-</br>
+
 
 <a href="https://github.com/adhinneupane"><img src="contributions.svg"></a>
+
+
+
+Have a nice day!

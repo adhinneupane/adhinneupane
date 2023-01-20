@@ -9,7 +9,6 @@
   <h2> Hello </h2>
   <ul>
 <li>🔭 I’m currently working on a resilient architecture for <a target="_blank" href="https://spaces.qualcomm.com/"> Free access to research papers / journals </a>.</li> 
-    <li>🧐 About to complete AWS Solutions Architect Professional exam.</li>
     <li>👨‍💻 Some of my projects are dumped <a href="https://github.com/adhinneupane"> here </a>.</li>
     <li>📝 Reach out to me at <a href="https://www.linkedin.com/in/ashutosh-neupane-7bab97161">LinkedIn</a>.</li>
     <li>💬 Research Areas: <strong> Site Reliability, CNM, CI/CD pipelines, Serverless Systems (AWS,GCP) , IaaC, and Reverse engineering</strong>.</li>
@@ -22,7 +21,4 @@ Have a bug free day!
 </h2>
 
 <a href="https://github.com/adhinneupane"><img align="right" src="contributions.svg"></a>
-
-
-
 

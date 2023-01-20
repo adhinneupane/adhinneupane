@@ -16,9 +16,5 @@
   </ul>
 </div>
 
-<h2>
-Have a bug free day!
-</h2>
-
 <a href="https://github.com/adhinneupane"><img align="right" src="contributions.svg"></a>
 

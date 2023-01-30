@@ -9,7 +9,7 @@
 </br>
 
 <div>  
-  <h2> Hello </h2>
+  <h2> Automate Everything! </h2>
   <ul>
 <li>🔭 I’m probably working on some CI/CD stuff</li> 
     <li>👨‍💻 Some of my projects are dumped <a href="https://github.com/adhinneupane"> here </a>.</li>

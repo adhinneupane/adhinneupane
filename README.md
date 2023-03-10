@@ -14,7 +14,7 @@
 <li>🔭 I’m probably working on some infra stuff</li> 
     <li>👨‍💻 Some of my projects are dumped <a href="https://github.com/adhinneupane"> here </a>.</li>
     <li>📝 Reach out to me at <a href="https://www.linkedin.com/in/ashutosh-neupane-7bab97161">LinkedIn</a>.</li>
-    <li>💬 Research Areas: <strong> Site Reliability, CNM, CI/CD pipelines, Serverless Systems (AWS,GCP) , IaaC, and Reverse engineering</strong>.</li>
+    <li>💬 Research Areas: <strong> Software Testing, Site Reliability, CNM, CI/CD pipelines, Serverless Systems (AWS,GCP) , IaaC, and Reverse engineering</strong>.</li>
     <li>🎉 A not so fun fact: I can't swim. </li>
   </ul>
 </div>
